@@ -1,0 +1,2167 @@
+{
+  "fonte": "Porto Seguro Saúde Referencial – RJ I",
+  "planos": [
+    "Bronze Brasil I",
+    "Prata Mais I",
+    "Ouro Mais I"
+  ],
+  "prestadores": [
+    {
+      "nome": "H Unimed Volta Redonda - Litoral",
+      "regiao": "Região da Costa Verde",
+      "local": "Angra dos Reis",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Hinja",
+      "regiao": "Região do Médio Paraíba",
+      "local": "Volta Redonda",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Sta Cecília",
+      "regiao": "Região do Médio Paraíba",
+      "local": "Volta Redonda",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Samer",
+      "regiao": "Região do Médio Paraíba",
+      "local": "Resende",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Sta Casa",
+      "regiao": "Região do Médio Paraíba",
+      "local": "Resende",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Unimed",
+      "regiao": "Região do Médio Paraíba",
+      "local": "Volta Redonda",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín Pediátrica da Barra",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Barra Da Tijuca",
+      "servicos": [
+        "H¹,PSP",
+        "H¹,PSP",
+        "H¹,PSP"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Casa Santa Cruz",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Santa Cruz",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Casa São Bernardo",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Barra da Tijuca",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H de Clín São Matheus",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Bangu",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Di Camp",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Campo Grande",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H São Lourenço",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Bangu",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "CC HNDI Jacarepaguá",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Freguesia (Jacarepaguá)",
+      "servicos": [
+        "H¹,PSP",
+        "H¹,PSP",
+        "H¹,PSP"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Santa Cruz",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Santa Cruz",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Clín - Jacarepaguá",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Taquara",
+      "servicos": [
+        "-",
+        "PS",
+        "PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Calren H do Cálculo Renal",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Recreio Dos Bandeirantes",
+      "servicos": [
+        "H¹,PS¹",
+        "H¹,PS¹",
+        "H¹,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Bangu - RJ",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Bangu",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Oeste D'or - RJ",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Campo Grande",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Rios D'or - RJ",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Freguesia (Jacarepaguá)",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Rio Barra",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Barra Da Tijuca",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Unimed Rio - RJ",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Barra Da Tijuca",
+      "servicos": [
+        "-",
+        "-",
+        "H"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "PA Unimed Rio - Barra da Tijuca",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Barra Da Tijuca",
+      "servicos": [
+        "-",
+        "-",
+        "PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Vitória - Barra da Tijuca",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Barra da Tijuca",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín Perinatal Barra",
+      "regiao": "Rio de Janeiro - Zona Oeste",
+      "local": "Barra Da Tijuca",
+      "servicos": [
+        "-",
+        "-",
+        "M,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "C S M Terezinha de Jesus",
+      "regiao": "Região Metropolitana",
+      "local": "São João de Meriti",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Casa de Saúde e Mat Santa Martha",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Daniel Lipp",
+      "regiao": "Região Metropolitana",
+      "local": "Duque de Caxias",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H de Clín de Niterói CHN",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H e Clín São Gonçalo",
+      "regiao": "Região Metropolitana",
+      "local": "São Gonçalo",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H e Mat Domingos Lourenço",
+      "regiao": "Região Metropolitana",
+      "local": "Nilópolis",
+      "servicos": [
+        "H,M,PS¹",
+        "H,M,PS¹",
+        "H,M,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Memorial São Lucas",
+      "regiao": "Região Metropolitana",
+      "local": "São Gonçalo",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Sta Teresa",
+      "regiao": "Região Metropolitana",
+      "local": "Petrópolis",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Mat São Francisco",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "M,PS¹",
+        "M,PS¹",
+        "M,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "N S Aparecida de Paracambi",
+      "regiao": "Região Metropolitana",
+      "local": "Paracambi",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Prontonil",
+      "regiao": "Região Metropolitana",
+      "local": "Nova Iguaçu",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Icaraí",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Mário Lioni - Duque de Caxias",
+      "regiao": "Região Metropolitana",
+      "local": "Duque de Caxias",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín Revitalis - Araras",
+      "regiao": "Região Metropolitana",
+      "local": "Petrópolis",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clipe Clín Pediátrica",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "PSP",
+        "PSP",
+        "PSP"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H das Clín Alameda",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H de Olhos Sta Beatriz - Fonseca",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "PS¹",
+        "PS¹",
+        "PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H de Olhos Sta Beatriz - Icaraí",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "PS¹",
+        "PS¹",
+        "PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H de Olhos Sta Beatriz - São Gonçalo",
+      "regiao": "Região Metropolitana",
+      "local": "São Gonçalo",
+      "servicos": [
+        "PS¹",
+        "PS¹",
+        "PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H do Coração Samcordis",
+      "regiao": "Região Metropolitana",
+      "local": "São Gonçalo",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H São Lucas - Niterói",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "HSCOR",
+      "regiao": "Região Metropolitana",
+      "local": "Duque de Caxias",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Pronil",
+      "regiao": "Região Metropolitana",
+      "local": "Nilópolis",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "EMCOR",
+      "regiao": "Região Metropolitana",
+      "local": "Nova Iguaçu",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H das Clín Nova Iguaçu",
+      "regiao": "Região Metropolitana",
+      "local": "Mesquita",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "SMH - Petrópolis",
+      "regiao": "Região Metropolitana",
+      "local": "Petrópolis",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Geral do Ingá",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Itaipu",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "-",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Apice H",
+      "regiao": "Região Metropolitana",
+      "local": "São João de Meriti",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Casa de Saúde N S Auxiliadora",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H",
+        "H",
+        "H"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Adventista Silvestre - Itaboraí",
+      "regiao": "Região Metropolitana",
+      "local": "Itaboraí",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Caxias D'or - RJ",
+      "regiao": "Região Metropolitana",
+      "local": "Duque de Caxias",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Niterói D'or - RJ",
+      "regiao": "Região Metropolitana",
+      "local": "Niterói",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Nossa Senhora de Fátima",
+      "regiao": "Região Metropolitana",
+      "local": "Duque de Caxias",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Regional Darcy Vargas",
+      "regiao": "Região Metropolitana",
+      "local": "Rio Bonito",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "CS N S de Fátima",
+      "regiao": "Região Metropolitana",
+      "local": "Nova Iguaçu",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Universitário Sul Fluminense",
+      "regiao": "Região Centro-Sul Fluminense",
+      "local": "Vassouras",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín da Gávea - Unidade Tijuca",
+      "regiao": "Rio de Janeiro - zona não informada",
+      "local": "Tijuca",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Hospital Semiu - RJ",
+      "regiao": "Rio de Janeiro - zona não informada",
+      "local": "Vila da Penha",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Barra Dor Adulto",
+      "regiao": "Rio de Janeiro - zona não informada",
+      "local": "Barra da Tijuca",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Barra Dor Pediátrico",
+      "regiao": "Rio de Janeiro - zona não informada",
+      "local": "Barra Da Tijuca",
+      "servicos": [
+        "-",
+        "-",
+        "PSP"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H American Cor",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Engenho De Dentro",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Casa Evangélico",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Tijuca",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Casa Menssana",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Grajaú",
+      "servicos": [
+        "H,H¹,PS",
+        "H,H¹,PS",
+        "H,H¹,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Clín Grajaú - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Grajaú",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Ilha do Governador - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Moneró",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Marcos Moraes",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Méier",
+      "servicos": [
+        "H",
+        "H",
+        "H"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Procor",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Jardim Guanabara",
+      "servicos": [
+        "H¹,PS¹",
+        "H¹,PS¹",
+        "H¹,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Prontobaby H da Criança - Tijuca",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Tijuca",
+      "servicos": [
+        "H¹,PSP",
+        "H¹,PSP",
+        "H¹,PSP"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Pasteur - Méier",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Méier",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Israelita Albert Sabin",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Maracanã",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H SFP Deus",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Tijuca",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Irajá",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Irajá",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Rio Day H - Tijuca - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Tijuca",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Balbino",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Olaria",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Dr Badim - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Maracanã",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Leopoldina",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Penha Circular",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Mario Kroeff - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Penha Circular",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Norte D'or - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Cascadura",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Sta Therezinha - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Tijuca",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "PA Unimed Rio - Méier",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Méier",
+      "servicos": [
+        "-",
+        "-",
+        "PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Quinta D'or - RJ",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "São Cristóvão",
+      "servicos": [
+        "-",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "São Vicente de Paulo",
+      "regiao": "Rio de Janeiro - Zona Norte",
+      "local": "Tijuca",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín Cir Sta Bárbara",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Botafogo",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Casa Rio Botafogo",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Botafogo",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Casa Rio Laranjeiras",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Laranjeiras",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Quali Ipanema",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Ipanema",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Policlínica - Botafogo",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Botafogo",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "CM Solidário Adventista Silvestre",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Cosme Velho",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Olho - Botafogo 2",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Botafogo",
+      "servicos": [
+        "PS¹",
+        "PS¹",
+        "PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "CS Pinheiro Machado",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Laranjeiras",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H São Lucas - Copacabana",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Copacabana",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Casa de Saúde São José",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Humaitá",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín Revitalis - Botafogo",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Botafogo",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín São Carlos",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Humaitá",
+      "servicos": [
+        "H¹,PS¹",
+        "H¹,PS¹",
+        "H¹,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Ipanema Care",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Ipanema",
+      "servicos": [
+        "H",
+        "H",
+        "H"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "PA Unimed Rio - Copacabana",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Copacabana",
+      "servicos": [
+        "-",
+        "-",
+        "PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clínica São Vicente",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Gávea",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Copa D'or - RJ",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Copacabana",
+      "servicos": [
+        "-",
+        "-",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Glória D'or",
+      "regiao": "Rio de Janeiro - Zona Sul",
+      "local": "Glória",
+      "servicos": [
+        "-",
+        "-",
+        "M,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H São José",
+      "regiao": "Região Serrana",
+      "local": "Teresópolis",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Benef Portuguesa de Teresópolis",
+      "regiao": "Região Serrana",
+      "local": "Teresópolis",
+      "servicos": [
+        "H,M",
+        "H,M",
+        "H,M"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H São Lucas - Nova Friburgo",
+      "regiao": "Região Serrana",
+      "local": "Nova Friburgo",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Serrano",
+      "regiao": "Região Serrana",
+      "local": "Nova Friburgo",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Casa de Portugal",
+      "regiao": "Rio de Janeiro - Centro",
+      "local": "Rio Comprido",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Casa de Saúde Saint Roman",
+      "regiao": "Rio de Janeiro - Centro",
+      "local": "Santa Teresa",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Ins de Oftalmologia do Rio de Janeiro",
+      "regiao": "Rio de Janeiro - Centro",
+      "local": "Centro",
+      "servicos": [
+        "PS¹",
+        "PS¹",
+        "PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Memorial São Cristóvão",
+      "regiao": "Rio de Janeiro - Centro",
+      "local": "São Cristóvão",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clipel",
+      "regiao": "Região das Baixadas Litorâneas",
+      "local": "Cabo Frio",
+      "servicos": [
+        "PSP",
+        "PSP",
+        "PSP"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Sta Izabel",
+      "regiao": "Região das Baixadas Litorâneas",
+      "local": "Cabo Frio",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H GrandMater",
+      "regiao": "Região das Baixadas Litorâneas",
+      "local": "Rio das Ostras",
+      "servicos": [
+        "M,PSP",
+        "M,PSP",
+        "M,PSP"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Casa de Saúde João XXIII",
+      "regiao": "Região Noroeste Fluminense",
+      "local": "Itaocara",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H de Miracema",
+      "regiao": "Região Noroeste Fluminense",
+      "local": "Miracema",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H São José do Avaí",
+      "regiao": "Região Noroeste Fluminense",
+      "local": "Itaperuna",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Ceplin",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Clín Lilia Neves",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Dr. Beda II",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H",
+        "H",
+        "H"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Dr Beda",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Prontocardio - Campos dos Goytacazes - RJ",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H,PS",
+        "H,PS",
+        "H,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Uti Neonatal Nícola Albano - Campos",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H,M",
+        "H,M",
+        "H,M"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H dos Plantadores de Cana",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "H Macaé D'or",
+      "regiao": "Região Norte Fluminense",
+      "local": "Macaé",
+      "servicos": [
+        "H,M,PS",
+        "H,M,PS",
+        "H,M,PS"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Sociedade Portuguesa Benef de Campos dos Goytacazes",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H,PS¹",
+        "H,PS¹",
+        "H,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Vila Verde - RJ",
+      "regiao": "Região Norte Fluminense",
+      "local": "Campos dos Goytacazes",
+      "servicos": [
+        "H¹",
+        "H¹",
+        "H¹"
+      ],
+      "tipo": "Hospitais e clínicas"
+    },
+    {
+      "nome": "Abila & Bersot - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Alta Diag",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "-",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Alta Excelência",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "-",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Angra - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Baffi",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Bedalab",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Bittar",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Braga Filho",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Bronstein - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "CDC",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Cepem - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "CMN Guanabara",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Corrêas - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Diagnocentro - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Diagnose Laboratorio",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Dimagem - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "DLC",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Dom Bosco - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Domi",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Dr Sergio Franco - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Dr. Belizario - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Eliel Figueiredo - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Exames - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Exata Lab de Anal Clinicas",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Felippe Mattoso - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Ferreira Passini - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Fonte Medicina Diagnóstica",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Frilab - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Gelson Wellington Peixoto - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Hemoclin - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Hemolabes - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Homero - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "IACB - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Ilagos Diag Por Imagem - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "José Luiz Ribeiro",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lab He",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lab Studio de Patologia - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "LABAC",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Labclin - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Labi Exames - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Laboclin - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Labormed - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Labs A+ (Grupo Fleury) - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lacca - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lace Saúde",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Laclin - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lafe - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lâmina - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lapac - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Lapec - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Luís Labor",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "M M M Lab - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "MD Vitória - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "H,M,PS¹",
+        "H,M,PS¹"
+      ],
+      "tipo": "Hospitais e clínicas",
+      "confirmar": "Prata Mais"
+    },
+    {
+      "nome": "Melissa",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Microlabs",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Miguez - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Morales - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Norat Lab - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Pascoto - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Pedra Verde",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Plinio Bacelar - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Prontolabor",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Rezende - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Richet - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Riolabor - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "-",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Rocha e Fonseca Diag - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "São Lucas - RJ",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    },
+    {
+      "nome": "Vallab",
+      "regiao": "Localidade não informada",
+      "local": "",
+      "servicos": [
+        "LAB",
+        "LAB",
+        "LAB"
+      ],
+      "tipo": "Laboratórios"
+    }
+  ]
+}
